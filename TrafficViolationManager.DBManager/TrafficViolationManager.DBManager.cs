@@ -6,15 +6,15 @@ using System.IO;
 
 namespace TrafficViolationManager.DBManager
 {
-    public class TrafficViolationManager
+    public class TrafficDBManager
     {
-        private static TrafficViolationManager dbManager;
+        private static TrafficDBManager dbManager;
         private string url;
         private string nombreArchivo = "properties.txt";
         private MySqlConnection con;
         private MySqlCommand com;
 
-        private TrafficViolationManager()
+        private TrafficDBManager()
         {
             string ruta = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, nombreArchivo);
             if (File.Exists(ruta))
@@ -41,10 +41,10 @@ namespace TrafficViolationManager.DBManager
             con = new MySqlConnection(url);
         }
 
-        public static TrafficViolationManager getInstance()
+        public static TrafficDBManager getInstance()
         {
             if (dbManager == null)
-                dbManager = new TrafficViolationManager();
+                dbManager = new TrafficDBManager();
             return dbManager;
         }
         public string Url => url;
@@ -102,13 +102,13 @@ namespace TrafficViolationManager.DBManager
             try
             {
                 con.Open();
-                Console.WriteLine("✅ Conexión exitosa a la base de datos.");
+                Console.WriteLine("Conexión exitosa a la base de datos.");
                 con.Close();
                 return true;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("❌ Error de conexión: " + ex.Message);
+                Console.WriteLine("Error de conexión: " + ex.Message);
                 return false;
             }
         }

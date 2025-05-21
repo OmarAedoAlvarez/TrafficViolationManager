@@ -1,0 +1,2 @@
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Persistence\obj\Debug\TrafficViolationManager.Persistence.csproj.AssemblyReference.cache
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Persistence\obj\Debug\TrafficViolationManager.Persistence.csproj.CoreCompileInputs.cache
