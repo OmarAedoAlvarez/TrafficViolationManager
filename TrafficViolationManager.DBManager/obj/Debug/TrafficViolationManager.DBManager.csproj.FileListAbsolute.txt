@@ -1,0 +1,12 @@
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\TrafficViolationManager.DBManager.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\TrafficViolationManager.DBManager.pdb
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\MySql.Data.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\System.Memory.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\bin\Debug\System.Buffers.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\obj\Debug\TrafficViolationManager.DBManager.csproj.AssemblyReference.cache
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\obj\Debug\TrafficViolationManager.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\obj\Debug\TrafficV.DD60B16A.Up2Date
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\obj\Debug\TrafficViolationManager.DBManager.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.DBManager\obj\Debug\TrafficViolationManager.DBManager.pdb

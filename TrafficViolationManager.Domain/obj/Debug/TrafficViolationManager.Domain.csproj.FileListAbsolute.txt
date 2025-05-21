@@ -1,0 +1,6 @@
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\bin\Debug\TrafficViolationManager.Domain.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\bin\Debug\TrafficViolationManager.Domain.pdb
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\obj\Debug\TrafficViolationManager.Domain.csproj.AssemblyReference.cache
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\obj\Debug\TrafficViolationManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\obj\Debug\TrafficViolationManager.Domain.dll
+C:\Users\omara\source\repos\TrafficViolationManager\TrafficViolationManager.Domain\obj\Debug\TrafficViolationManager.Domain.pdb
